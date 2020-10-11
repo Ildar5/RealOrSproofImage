@@ -1,0 +1,9 @@
+res/
+best_model/
+best_model_w.*
+history.py
+.idea/
+venv/
+result_without_dropouts.txt
+test/
+train/
